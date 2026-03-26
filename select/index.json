@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ANTIFRAGILE",
   "base_artist": "LE SSERAFIM",
-  "createdAt": "2026-03-20T14:55:04.089353Z",
+  "createdAt": "2026-03-26T15:44:27.352472Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "LE SSERAFIM",
       "has_synced": true,
       "path": "select/localdb_01_ANTIFRAGILE_LE_SSERAFIM.lrc",
+      "repo_name": "8x43gsnkBH8"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ANTIFRAGILE",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/localdb_02_ANTIFRAGILE_LE_SSERAFIM.lrc",
       "repo_name": "pyf8cbqyfPs"
     }
   ]
